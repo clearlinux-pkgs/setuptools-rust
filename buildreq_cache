@@ -1,3 +1,6 @@
-0.12.1
-pip
-setuptools_scm-python
+1.1.1
+pypi(semantic_version)
+pypi(setuptools_rust)
+pypi(tomli)
+pypi(typing_extensions)
+pypi(wheel)
