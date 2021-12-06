@@ -1,5 +1,5 @@
 PKG_NAME := setuptools-rust
-URL = https://files.pythonhosted.org/packages/3b/17/39804596680094ddabf2f44814c8919edb14da4f5db7b45e38915133f7fb/setuptools-rust-1.1.1.tar.gz
+URL = https://files.pythonhosted.org/packages/67/08/e1aa2c582c62ac76e4d60f8e454bd3bba933781a06a88b4e38797445822a/setuptools-rust-1.1.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
